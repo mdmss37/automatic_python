@@ -1,4 +1,4 @@
-#! python3
+    #! python3
 # phoneAndEmail.py
 # - Finds phone numbers and email adress from the clipboard.
 
